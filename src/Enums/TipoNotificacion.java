@@ -1,0 +1,8 @@
+package Enums;
+
+public enum TipoNotificacion {
+    PUBLICACION_CALIFICACIONES,
+    RECORDATORIO_PAGO,
+    AVISO_CANCELACION_CLASE,
+    CONFIRMACION_INSCRIPCION
+}
